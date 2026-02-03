@@ -4,7 +4,7 @@ export enum ParameterType {
   MONEY = 'Денежный',
   DATE = 'Дата',
   LIST = 'Список',
-  NUMERIC = 'Числовая',
+  NUMERIC = 'Числj',
   FORMULA = 'Формула'
 }
 
